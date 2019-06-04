@@ -1,5 +1,7 @@
 # Notebook Projects
-Deep learning Projects
+
+
+Deep learning projects to understand the neural network concept, implement neural network and improve the performance of our result.
 
    1. [Initialization](/Initialization.ipynb)
         
