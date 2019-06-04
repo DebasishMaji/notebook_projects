@@ -52,6 +52,6 @@ Deep learning Projects
    
    5. [Tensorflow](/Tensorflow+Tutorial.ipynb)
 
-       - In this notebook you will learn all the basics of Tensorflow. 
+       - In this notebook we will learn all the basics of Tensorflow. 
        - We will implement useful functions and draw the parallel with what we did using Numpy. 
        - We will understand what Tensors and operations are, as well as how to execute them in a computation graph.
